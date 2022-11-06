@@ -28,7 +28,10 @@ npm install
 npx prisma migrate dev
 ```
 
-6. Build the project
+> **Note**
+> you should have SQL server running locally
+
+7. Build the project
 
 ```bash
 npm run build
@@ -36,14 +39,10 @@ npm run build
 
 this will create `dist` folder with compiled javascript that is executed in node
 
-7. Start the server
+8. Start the server
 
 ```bash
 node ./dist/main.js
 ```
 
 you should see message "Server is running on http://localhost:4000
-
-```
-
-```

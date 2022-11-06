@@ -45,4 +45,4 @@ this will create `dist` folder with compiled javascript that is executed in node
 node ./dist/main.js
 ```
 
-you should see message "Server is running on http://localhost:4000
+you should see message `Server is running on http://localhost:4000`

@@ -7,7 +7,10 @@ For testing docker compose and deploy to Azure App Service
 1. Installed [nodeJS](https://nodejs.org/en/download/) on your machine (min ver 14 LTS or just use latest version)
 2. Installed [git](https://git-scm.com/downloads) on your machine
 3. Clone this repo
-   `git clone https://github.com/jsmircic/node-http-sql-demo`
+
+```bash
+git clone https://github.com/jsmircic/node-http-sql-demo
+```
 
 4. Install dependencies
 
